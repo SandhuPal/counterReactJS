@@ -19,6 +19,8 @@ npx degit reduxjs/redux-templates/packages/vite-template-redux my-app
 - `build` - build for production
 - `preview` - locally preview production build
 - `test` - launch test runner
+![image](https://github.com/SandhuPal/counterReactJS/assets/26327981/6de137a2-f2ff-4e7a-ad55-24df652eed3e)
+![image](https://github.com/SandhuPal/counterReactJS/assets/26327981/5b5a60d9-18c5-4259-9a9f-04d59b5d39e0)
 
 ## Inspiration
 
